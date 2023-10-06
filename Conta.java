@@ -24,6 +24,7 @@ public class Conta {
 	}
 	
 	public double getSaldo() {
+		System.out.println(numero);
 		return saldo;
 	}
 }
