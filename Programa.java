@@ -21,7 +21,5 @@ public class Programa {
 		conta1.transferir(conta1, conta2, 10);
 		System.out.println(conta1.getSaldo());
 		System.out.println(conta2.getSaldo());
-		
-		System.out.println("Teste");
 	}
 }
